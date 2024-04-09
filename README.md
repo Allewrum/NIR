@@ -1,7 +1,7 @@
 # NIR
 Научно-исследовательская работа.
 
-Набор данных - успеваемость учащихся.
+Набор данных - успеваемость учащихся:
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 Работа выполнялась на языках R и Python. Выложена часть работы на Python.
