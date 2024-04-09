@@ -3,6 +3,7 @@
 
 Набор данных - клиенты банка(задание 4):
 https://www.kaggle.com/code/josh1337/bankchurners#Exploration
+
 Набор данных - успеваемость учащихся(задание 5):
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
